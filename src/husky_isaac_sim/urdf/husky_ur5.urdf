@@ -41,7 +41,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/base_link.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/base_link.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -103,7 +103,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/wheel.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/wheel.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -128,7 +128,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/wheel.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/wheel.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -153,7 +153,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/wheel.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/wheel.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -178,7 +178,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/wheel.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/wheel.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -207,7 +207,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/top_chassis.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/top_chassis.dae"/>
       </geometry>
     </visual>
     <inertial>
@@ -225,7 +225,7 @@
   <link name="husky_user_rail_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/user_rail.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/user_rail.dae"/>
       </geometry>
     </visual>
     <inertial>
@@ -244,7 +244,7 @@
   <link name="husky_front_bumper_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/bumper.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/bumper.dae"/>
       </geometry>
     </visual>
     <inertial>
@@ -263,7 +263,7 @@
   <link name="husky_rear_bumper_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/bumper.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/bumper.dae"/>
       </geometry>
     </visual>
     <inertial>
@@ -282,13 +282,13 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/top_plate.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/top_plate.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/top_plate.stl"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/top_plate.stl"/>
       </geometry>
     </collision>
   </link>
@@ -342,13 +342,13 @@
     <origin rpy="0 0 0" xyz="0 0 0"/>
     <visual>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/accessories/510_mm_sensor_arch.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/accessories/510_mm_sensor_arch.dae"/>
       </geometry>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file:///home/husky_ur5_ws/src/husky_description/meshes/accessories/510_mm_sensor_arch.dae"/>
+        <mesh filename="file:///home/dada/raicam_ws/summit_arm_sim/src/husky_description/meshes/accessories/510_mm_sensor_arch.dae"/>
       </geometry>
     </collision>
   </link>

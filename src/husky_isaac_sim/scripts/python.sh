@@ -8,7 +8,7 @@
 
 # Script to call the isaac launch system (see python.sh in the ISAAC_SCRIPT_DIR)
 source /opt/ros/humble/setup.bash
-ISAAC_SCRIPT_DIR=/isaac-sim
+ISAAC_SCRIPT_DIR=/home/dada/.local/share/ov/pkg/isaac-sim-2023.1.1
 CUR_SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 NEW_ARGS=""
 for arg in "$@"
