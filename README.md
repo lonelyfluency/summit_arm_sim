@@ -46,9 +46,7 @@ Also, this repository do not need to use a docker of isaacsim, which needs [Nvid
 6. Build your packages:
 
    ```shell
-   sudo apt install ros-humble-vision-msgs ros-humble-control-msgs \
-  ros-humble-tf-transformations ros-humble-joint-state-publisher \
-  ros-humble-xacro
+   sudo apt install ros-humble-vision-msgs ros-humble-control-msgs ros-humble-tf-transformations ros-humble-joint-state-publisher ros-humble-xacro
    cd summit_arm_sim
    colcon build
    ```
